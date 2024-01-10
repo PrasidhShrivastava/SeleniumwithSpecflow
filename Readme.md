@@ -4,6 +4,8 @@ SpecFlow (BDD)
 Selenium (WebDriver)
 NUnit 
 
+Please focus on Feature File and Step Definition only 
+
 Future Scope: (Due to time contraint didn't cover below part)
 1. Proper Page object model implementation
 2. Base Class and Hooks
